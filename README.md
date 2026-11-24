@@ -2,7 +2,7 @@
 
 A real-time desktop simulator of a **permanent-magnet DC (PMDC) motor** under **PI speed control**, with a built-in **relay-feedback auto-tuner**, a realistic **sensor time delay**, **load-torque ramping** and live performance metrics. Built with Python, PyQt5 and pyqtgraph.
 
-Add a screenshot of the dashboard here, e.g. ![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard.png)
 
 ## Features
 
